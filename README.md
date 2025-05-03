@@ -43,7 +43,7 @@ Can put also angular in langules<h2 align="center" style="color:black;">Hi 👋,
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://angular.io/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="40" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="80" height="80">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
