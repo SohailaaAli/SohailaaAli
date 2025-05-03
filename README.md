@@ -52,7 +52,7 @@
 ---
 
 ### 🏆 Projects & Contributions:
-- 🧠 Built secure, scalable REST APIs with **.NET 6** for enterprise applications
+- 🧠 Built secure, scalable REST APIs with **.NET 9** for enterprise applications
 - 📁 Designed **database schemas** and optimized queries using SQL Server
 - 🔐 Implemented **JWT authentication** and **role-based authorization**
 - 🔄 Integrated **Angular frontends** with backend APIs using HttpClient
