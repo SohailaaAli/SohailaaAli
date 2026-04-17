@@ -54,6 +54,13 @@
 
 <hr />
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SohailaAli&theme=dracula&no-frame=false&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
+
+<hr />
+
 ### 🌱 Learning & Evolution (2026)
 - **Advanced Microservices:** Mastering Docker, Kubernetes, and Azure deployment.
 - **AI Integration:** Leveraging LLMs to enhance web application user experiences.
